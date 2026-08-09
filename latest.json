@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
   "productName": "Rembry",
-  "version": "0.88.0",
-  "versionCode": 88000,
+  "version": "0.89.0",
+  "versionCode": 89000,
   "dataSchemaVersion": 1,
-  "publishedAt": "2026-08-04T23:10:00+08:00",
-  "releaseUrl": "https://github.com/10666663119a-hash/Rembry/releases/tag/v0.88.0",
+  "publishedAt": "2026-08-10T07:45:24+08:00",
+  "releaseUrl": "https://github.com/10666663119a-hash/Rembry/releases/tag/v0.89.0",
   "assets": {
     "windowsX64": {
-      "name": "Rembry_0.88.0_windows_x64_setup.exe",
-      "sha256": "2E4A01269985104DBB9EDE43634810E94D4FC3BB29F68BA16CDB3C93B91651F3"
+      "name": "Rembry_0.89.0_windows_x64_setup.exe",
+      "sha256": "B91EE4D68D816CAABA475681AD2852686FAF84169D78BF56650FF3D515ECB702"
     },
     "android": {
-      "name": "Rembry_0.88.0_android.apk",
-      "sha256": "FE5F95D71E5F2956867E0E289393AEBDB4EE3A74A316A6A931987EAFCBBF7D74",
+      "name": "Rembry_0.89.0_android.apk",
+      "sha256": "EBACB3D70CCA645108F1840135199BF30E890C835C8565F84D69B23D526FF5CD",
       "minimumSdk": 24,
       "architectures": ["arm64-v8a", "armeabi-v7a"]
     }

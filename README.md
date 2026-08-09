@@ -8,7 +8,7 @@ Rembry 是一款本地优先的专业课主观题整理、背诵、抽查与学�
 
 请从右侧或页面顶部的 Releases 下载最新版：
 
-当前最新版：`v0.88.0`
+当前最新版：`v0.89.0`
 
 - Windows：`Rembry_*_windows_x64_setup.exe`
 - Android：`Rembry_*_android.apk`
