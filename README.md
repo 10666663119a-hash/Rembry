@@ -8,7 +8,7 @@ Rembry 是一款本地优先的专业课主观题整理、背诵、抽查与学�
 
 请从右侧或页面顶部的 Releases 下载最新版：
 
-当前最新版：`v0.89.0`
+当前稳定测试版：`v0.90.0`
 
 - Windows：`Rembry_*_windows_x64_setup.exe`
 - Android：`Rembry_*_android.apk`
@@ -30,4 +30,6 @@ Android 版最低支持 Android 7.0。首次安装 APK 时，手机可能会要�
 
 ## 安全校验
 
-每个版本都提供 `SHA256SUMS.txt`。可用 SHA-256 校验下载文件是否完整。
+当前版本提供 `SHA256SUMS.txt`。可用 SHA-256 校验下载文件是否完整。
+
+此仓库只保留当前稳定测试版，不再提供早期不稳定测试版本下载。
